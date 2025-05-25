@@ -1,0 +1,1 @@
+Tables include information about the used models in Sequenza. For some samples, alternative models were calculated. Table 'FinalUsedModels' contains information for the last used models. 'CNVSequenza' table contains both original and alternative model details for the corresponding samples.  

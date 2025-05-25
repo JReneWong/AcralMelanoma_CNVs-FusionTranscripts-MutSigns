@@ -1,0 +1,135 @@
+############################ Signature Decomposition Details ################################
+
+
+Context Type: 48
+Genome Build: GRCh37
+The following signatures are excluded: 
+
+
+
+######################## Decomposing CNV48A ########################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [19]
+L2 Error % 0.51
+Cosine Similarity 0.86
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [1, 19]
+L2 Error % 0.3
+Cosine Similarity 0.95
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 2 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [1, 19]
+L2 Error % 0.3
+Cosine Similarity 0.95
+
+#################### Final Composition #################################
+[1, 19]
+L2 Error % 0.3
+Cosine Similarity 0.95
+
+
+
+
+######################## Decomposing CNV48B ########################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [18]
+L2 Error % 0.69
+Cosine Similarity 0.73
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [7, 18]
+L2 Error % 0.5
+Cosine Similarity 0.87
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 2 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [1, 7, 18]
+L2 Error % 0.36
+Cosine Similarity 0.93
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 3 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [1, 7, 9, 18]
+L2 Error % 0.31
+Cosine Similarity 0.95
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 4 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [1, 7, 9, 18]
+L2 Error % 0.31
+Cosine Similarity 0.95
+
+#################### Final Composition #################################
+[1, 7, 9, 18]
+L2 Error % 0.31
+Cosine Similarity 0.95
+
+
+
+
+######################## Decomposing CNV48C ########################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [8]
+L2 Error % 0.54
+Cosine Similarity 0.84
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [8, 19]
+L2 Error % 0.46
+Cosine Similarity 0.89
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 2 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [8, 19, 23]
+L2 Error % 0.4
+Cosine Similarity 0.92
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 3 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [8, 19, 23]
+L2 Error % 0.4
+Cosine Similarity 0.92
+
+#################### Final Composition #################################
+[8, 19, 23]
+L2 Error % 0.4
+Cosine Similarity 0.92
+
+
+
+
+######################## Decomposing CNV48D ########################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [17]
+L2 Error % 0.52
+Cosine Similarity 0.85
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [6, 17]
+L2 Error % 0.31
+Cosine Similarity 0.95
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 2 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [6, 17]
+L2 Error % 0.31
+Cosine Similarity 0.95
+
+#################### Final Composition #################################
+[6, 17]
+L2 Error % 0.31
+Cosine Similarity 0.95

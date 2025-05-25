@@ -1,0 +1,1 @@
+Inputdata: Table generated using the output from the Copy Number analysis (Sequenza). Details for the format and processing are available in the .md file. 

@@ -1,0 +1,3 @@
+Signatures	Stability	Total Mutations
+SBSCNVA	0.994	4414
+SBSCNVB	0.99	2173

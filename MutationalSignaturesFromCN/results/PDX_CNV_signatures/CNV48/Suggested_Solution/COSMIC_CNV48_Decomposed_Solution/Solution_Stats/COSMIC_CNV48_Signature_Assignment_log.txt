@@ -1,0 +1,960 @@
+************************ Stepwise Description of Signature Assignment to Samples ************************
+
+
+
+
+                    ################ Sample 1 #################
+############################# Initial Composition ####################################
+   CN2  CN8   CN9  CN20  CN24
+0  4.0  8.0  91.0  15.0  32.0
+L2 Error %: 0.63
+Cosine Similarity: 0.78
+############################## Composition After Initial Remove ###############################
+     CN9
+0  150.0
+L2 Error %: 0.69
+Cosine Similarity: 0.72
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN9']
+L2 Error % 0.69
+Cosine Similarity 0.72
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN9']
+L2 Error % 0.69
+Cosine Similarity 0.72
+
+#################### Final Composition #################################
+['CN9']
+L2 Error % 0.69
+Cosine Similarity 0.72
+####################################### Composition After Add-Remove #######################################
+     CN9
+0  150.0
+L2 Error %: 0.69
+Cosine Similarity: 0.72
+
+
+
+
+
+                    ################ Sample 2 #################
+############################# Initial Composition ####################################
+   CN8    CN9  CN17  CN20  CN24
+0  5.0  133.0   7.0  57.0  42.0
+L2 Error %: 0.34
+Cosine Similarity: 0.94
+############################## Composition After Initial Remove ###############################
+          CN9       CN20       CN24
+0  135.759422  64.224209  44.016369
+L2 Error %: 0.34
+Cosine Similarity: 0.94
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN9', 'CN20', 'CN24']
+L2 Error % 0.34
+Cosine Similarity 0.94
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN9', 'CN20', 'CN24']
+L2 Error % 0.34
+Cosine Similarity 0.94
+
+#################### Final Composition #################################
+['CN9', 'CN20', 'CN24']
+L2 Error % 0.34
+Cosine Similarity 0.94
+####################################### Composition After Add-Remove #######################################
+     CN9  CN20  CN24
+0  136.0  64.0  44.0
+L2 Error %: 0.34
+Cosine Similarity: 0.94
+
+
+
+
+
+                    ################ Sample 3 #################
+############################# Initial Composition ####################################
+   CN8    CN9  CN20  CN24
+0  9.0  223.0  69.0  61.0
+L2 Error %: 0.44
+Cosine Similarity: 0.9
+############################## Composition After Initial Remove ###############################
+          CN9      CN20       CN24
+0  227.567221  71.88006  62.552719
+L2 Error %: 0.44
+Cosine Similarity: 0.9
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN9', 'CN20', 'CN24']
+L2 Error % 0.44
+Cosine Similarity 0.9
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN9', 'CN20', 'CN24']
+L2 Error % 0.44
+Cosine Similarity 0.9
+
+#################### Final Composition #################################
+['CN9', 'CN20', 'CN24']
+L2 Error % 0.44
+Cosine Similarity 0.9
+####################################### Composition After Add-Remove #######################################
+     CN9  CN20  CN24
+0  227.0  72.0  63.0
+L2 Error %: 0.44
+Cosine Similarity: 0.9
+
+
+
+
+
+                    ################ Sample 4 #################
+############################# Initial Composition ####################################
+    CN2   CN8  CN17  CN19  CN20  CN24
+0  53.0  36.0  41.0  73.0  30.0   1.0
+L2 Error %: 0.42
+Cosine Similarity: 0.91
+############################## Composition After Initial Remove ###############################
+         CN2       CN17        CN19
+0  59.455483  71.995668  102.548849
+L2 Error %: 0.48
+Cosine Similarity: 0.88
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN17', 'CN19']
+L2 Error % 0.48
+Cosine Similarity 0.88
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN17', 'CN19']
+L2 Error % 0.48
+Cosine Similarity 0.88
+
+#################### Final Composition #################################
+['CN2', 'CN17', 'CN19']
+L2 Error % 0.48
+Cosine Similarity 0.88
+####################################### Composition After Add-Remove #######################################
+    CN2  CN17   CN19
+0  59.0  72.0  103.0
+L2 Error %: 0.48
+Cosine Similarity: 0.88
+
+
+
+
+
+                    ################ Sample 5 #################
+############################# Initial Composition ####################################
+    CN2   CN8  CN17  CN19  CN20  CN24
+0  49.0  12.0  24.0  44.0  64.0  16.0
+L2 Error %: 0.34
+Cosine Similarity: 0.94
+############################## Composition After Initial Remove ###############################
+         CN2       CN19       CN20
+0  58.233779  66.108906  84.657315
+L2 Error %: 0.37
+Cosine Similarity: 0.93
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN19', 'CN20']
+L2 Error % 0.37
+Cosine Similarity 0.93
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN19', 'CN20']
+L2 Error % 0.37
+Cosine Similarity 0.93
+
+#################### Final Composition #################################
+['CN2', 'CN19', 'CN20']
+L2 Error % 0.37
+Cosine Similarity 0.93
+####################################### Composition After Add-Remove #######################################
+    CN2  CN19  CN20
+0  58.0  66.0  85.0
+L2 Error %: 0.37
+Cosine Similarity: 0.93
+
+
+
+
+
+                    ################ Sample 6 #################
+############################# Initial Composition ####################################
+    CN2   CN8  CN17  CN19  CN20  CN24
+0  52.0  22.0  15.0  59.0  71.0   9.0
+L2 Error %: 0.35
+Cosine Similarity: 0.94
+############################## Composition After Initial Remove ###############################
+         CN2       CN19       CN20
+0  60.354924  76.225053  91.420023
+L2 Error %: 0.37
+Cosine Similarity: 0.93
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN19', 'CN20']
+L2 Error % 0.37
+Cosine Similarity 0.93
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN19', 'CN20']
+L2 Error % 0.37
+Cosine Similarity 0.93
+
+#################### Final Composition #################################
+['CN2', 'CN19', 'CN20']
+L2 Error % 0.37
+Cosine Similarity 0.93
+####################################### Composition After Add-Remove #######################################
+    CN2  CN19  CN20
+0  60.0  76.0  92.0
+L2 Error %: 0.37
+Cosine Similarity: 0.93
+
+
+
+
+
+                    ################ Sample 7 #################
+############################# Initial Composition ####################################
+    CN2   CN8  CN17  CN19  CN20  CN24
+0  54.0  18.0  18.0  53.0  43.0  11.0
+L2 Error %: 0.36
+Cosine Similarity: 0.93
+############################## Composition After Initial Remove ###############################
+         CN2       CN19       CN20
+0  65.200294  71.599458  60.200248
+L2 Error %: 0.39
+Cosine Similarity: 0.92
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN19', 'CN20']
+L2 Error % 0.39
+Cosine Similarity 0.92
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN19', 'CN20']
+L2 Error % 0.39
+Cosine Similarity 0.92
+
+#################### Final Composition #################################
+['CN2', 'CN19', 'CN20']
+L2 Error % 0.39
+Cosine Similarity 0.92
+####################################### Composition After Add-Remove #######################################
+    CN2  CN19  CN20
+0  65.0  72.0  60.0
+L2 Error %: 0.39
+Cosine Similarity: 0.92
+
+
+
+
+
+                    ################ Sample 8 #################
+############################# Initial Composition ####################################
+    CN2   CN8  CN17  CN19  CN20
+0  48.0  15.0  14.0  24.0  41.0
+L2 Error %: 0.38
+Cosine Similarity: 0.92
+############################## Composition After Initial Remove ###############################
+         CN2       CN20
+0  64.514307  77.485693
+L2 Error %: 0.43
+Cosine Similarity: 0.9
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN20']
+L2 Error % 0.43
+Cosine Similarity 0.9
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN20']
+L2 Error % 0.43
+Cosine Similarity 0.9
+
+#################### Final Composition #################################
+['CN2', 'CN20']
+L2 Error % 0.43
+Cosine Similarity 0.9
+####################################### Composition After Add-Remove #######################################
+    CN2  CN20
+0  65.0  77.0
+L2 Error %: 0.43
+Cosine Similarity: 0.9
+
+
+
+
+
+                    ################ Sample 9 #################
+############################# Initial Composition ####################################
+    CN2   CN8  CN17  CN19  CN20
+0  43.0  29.0  13.0  21.0  65.0
+L2 Error %: 0.34
+Cosine Similarity: 0.94
+############################## Composition After Initial Remove ###############################
+         CN2        CN20
+0  59.289471  111.710529
+L2 Error %: 0.4
+Cosine Similarity: 0.92
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN20']
+L2 Error % 0.4
+Cosine Similarity 0.92
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN20']
+L2 Error % 0.4
+Cosine Similarity 0.92
+
+#################### Final Composition #################################
+['CN2', 'CN20']
+L2 Error % 0.4
+Cosine Similarity 0.92
+####################################### Composition After Add-Remove #######################################
+    CN2   CN20
+0  59.0  112.0
+L2 Error %: 0.4
+Cosine Similarity: 0.92
+
+
+
+
+
+                    ################ Sample 10 #################
+############################# Initial Composition ####################################
+    CN2   CN8  CN17  CN19  CN20
+0  42.0  25.0  54.0  15.0  90.0
+L2 Error %: 0.3
+Cosine Similarity: 0.95
+############################## Composition After Initial Remove ###############################
+         CN2        CN20
+0  61.045799  164.954201
+L2 Error %: 0.35
+Cosine Similarity: 0.94
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN20']
+L2 Error % 0.35
+Cosine Similarity 0.94
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN20']
+L2 Error % 0.35
+Cosine Similarity 0.94
+
+#################### Final Composition #################################
+['CN2', 'CN20']
+L2 Error % 0.35
+Cosine Similarity 0.94
+####################################### Composition After Add-Remove #######################################
+    CN2   CN20
+0  61.0  165.0
+L2 Error %: 0.35
+Cosine Similarity: 0.94
+
+
+
+
+
+                    ################ Sample 11 #################
+############################# Initial Composition ####################################
+    CN2  CN8  CN17  CN19   CN20
+0  36.0  8.0  58.0  10.0  156.0
+L2 Error %: 0.25
+Cosine Similarity: 0.97
+############################## Composition After Initial Remove ###############################
+         CN2        CN20
+0  48.912681  219.087319
+L2 Error %: 0.28
+Cosine Similarity: 0.96
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN20']
+L2 Error % 0.28
+Cosine Similarity 0.96
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN20']
+L2 Error % 0.28
+Cosine Similarity 0.96
+
+#################### Final Composition #################################
+['CN2', 'CN20']
+L2 Error % 0.28
+Cosine Similarity 0.96
+####################################### Composition After Add-Remove #######################################
+    CN2   CN20
+0  49.0  219.0
+L2 Error %: 0.28
+Cosine Similarity: 0.96
+
+
+
+
+
+                    ################ Sample 12 #################
+############################# Initial Composition ####################################
+    CN2   CN8  CN9  CN17  CN19  CN20
+0  43.0  26.0  1.0  25.0  14.0  68.0
+L2 Error %: 0.34
+Cosine Similarity: 0.94
+############################## Composition After Initial Remove ###############################
+         CN2        CN20
+0  58.846584  118.153416
+L2 Error %: 0.39
+Cosine Similarity: 0.92
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN20']
+L2 Error % 0.39
+Cosine Similarity 0.92
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN20']
+L2 Error % 0.39
+Cosine Similarity 0.92
+
+#################### Final Composition #################################
+['CN2', 'CN20']
+L2 Error % 0.39
+Cosine Similarity 0.92
+####################################### Composition After Add-Remove #######################################
+    CN2   CN20
+0  59.0  118.0
+L2 Error %: 0.39
+Cosine Similarity: 0.92
+
+
+
+
+
+                    ################ Sample 13 #################
+############################# Initial Composition ####################################
+    CN2   CN8  CN17  CN19  CN20
+0  43.0  26.0  47.0  26.0  38.0
+L2 Error %: 0.34
+Cosine Similarity: 0.94
+############################## Composition After Initial Remove ###############################
+         CN2        CN20
+0  68.217715  111.782285
+L2 Error %: 0.43
+Cosine Similarity: 0.9
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN20']
+L2 Error % 0.43
+Cosine Similarity 0.9
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN20']
+L2 Error % 0.43
+Cosine Similarity 0.9
+
+#################### Final Composition #################################
+['CN2', 'CN20']
+L2 Error % 0.43
+Cosine Similarity 0.9
+####################################### Composition After Add-Remove #######################################
+    CN2   CN20
+0  68.0  112.0
+L2 Error %: 0.43
+Cosine Similarity: 0.9
+
+
+
+
+
+                    ################ Sample 14 #################
+############################# Initial Composition ####################################
+     CN8   CN9   CN17
+0  118.0  12.0  169.0
+L2 Error %: 0.69
+Cosine Similarity: 0.73
+############################## Composition After Initial Remove ###############################
+          CN8        CN17
+0  122.802094  176.197906
+L2 Error %: 0.69
+Cosine Similarity: 0.73
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN8', 'CN17']
+L2 Error % 0.69
+Cosine Similarity 0.73
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN8', 'CN17']
+L2 Error % 0.69
+Cosine Similarity 0.73
+
+#################### Final Composition #################################
+['CN8', 'CN17']
+L2 Error % 0.69
+Cosine Similarity 0.73
+####################################### Composition After Add-Remove #######################################
+     CN8   CN17
+0  123.0  176.0
+L2 Error %: 0.69
+Cosine Similarity: 0.73
+
+
+
+
+
+                    ################ Sample 15 #################
+############################# Initial Composition ####################################
+    CN2   CN8  CN9  CN17  CN19  CN20
+0  45.0  36.0  6.0  16.0  21.0  49.0
+L2 Error %: 0.31
+Cosine Similarity: 0.95
+############################## Composition After Initial Remove ###############################
+         CN2        CN8       CN20
+0  55.275854  40.220582  77.503564
+L2 Error %: 0.35
+Cosine Similarity: 0.94
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN8', 'CN20']
+L2 Error % 0.35
+Cosine Similarity 0.94
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN8', 'CN20']
+L2 Error % 0.35
+Cosine Similarity 0.94
+
+#################### Final Composition #################################
+['CN2', 'CN8', 'CN20']
+L2 Error % 0.35
+Cosine Similarity 0.94
+####################################### Composition After Add-Remove #######################################
+    CN2   CN8  CN20
+0  55.0  40.0  78.0
+L2 Error %: 0.35
+Cosine Similarity: 0.94
+
+
+
+
+
+                    ################ Sample 16 #################
+############################# Initial Composition ####################################
+    CN2   CN8  CN9  CN17  CN19  CN20  CN24
+0  31.0  31.0  4.0  27.0  32.0  47.0  17.0
+L2 Error %: 0.32
+Cosine Similarity: 0.95
+############################## Composition After Initial Remove ###############################
+         CN2        CN20       CN24
+0  45.972422  106.430089  36.597489
+L2 Error %: 0.41
+Cosine Similarity: 0.91
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN20', 'CN24']
+L2 Error % 0.41
+Cosine Similarity 0.91
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN20', 'CN24']
+L2 Error % 0.41
+Cosine Similarity 0.91
+
+#################### Final Composition #################################
+['CN2', 'CN20', 'CN24']
+L2 Error % 0.41
+Cosine Similarity 0.91
+####################################### Composition After Add-Remove #######################################
+    CN2   CN20  CN24
+0  46.0  106.0  37.0
+L2 Error %: 0.41
+Cosine Similarity: 0.91
+
+
+
+
+
+                    ################ Sample 17 #################
+############################# Initial Composition ####################################
+    CN2    CN8  CN17  CN19  CN24
+0  39.0  109.0  17.0  71.0   5.0
+L2 Error %: 0.31
+Cosine Similarity: 0.95
+############################## Composition After Initial Remove ###############################
+         CN2         CN8       CN19
+0  43.639972  111.481179  85.878849
+L2 Error %: 0.32
+Cosine Similarity: 0.95
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN8', 'CN19']
+L2 Error % 0.32
+Cosine Similarity 0.95
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN8', 'CN19']
+L2 Error % 0.32
+Cosine Similarity 0.95
+
+#################### Final Composition #################################
+['CN2', 'CN8', 'CN19']
+L2 Error % 0.32
+Cosine Similarity 0.95
+####################################### Composition After Add-Remove #######################################
+    CN2    CN8  CN19
+0  44.0  111.0  86.0
+L2 Error %: 0.32
+Cosine Similarity: 0.95
+
+
+
+
+
+                    ################ Sample 18 #################
+############################# Initial Composition ####################################
+    CN2    CN8  CN17  CN19  CN20  CN24
+0  32.0  122.0  36.0  72.0  14.0  19.0
+L2 Error %: 0.29
+Cosine Similarity: 0.96
+############################## Composition After Initial Remove ###############################
+         CN2         CN8       CN19
+0  42.155848  133.249362  119.59479
+L2 Error %: 0.35
+Cosine Similarity: 0.93
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN8', 'CN19']
+L2 Error % 0.35
+Cosine Similarity 0.93
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN8', 'CN19']
+L2 Error % 0.35
+Cosine Similarity 0.93
+
+#################### Final Composition #################################
+['CN2', 'CN8', 'CN19']
+L2 Error % 0.35
+Cosine Similarity 0.93
+####################################### Composition After Add-Remove #######################################
+    CN2    CN8   CN19
+0  42.0  133.0  120.0
+L2 Error %: 0.35
+Cosine Similarity: 0.93
+
+
+
+
+
+                    ################ Sample 19 #################
+############################# Initial Composition ####################################
+    CN2  CN8  CN17  CN19  CN20  CN24
+0  56.0  4.0  35.0  53.0  18.0   8.0
+L2 Error %: 0.34
+Cosine Similarity: 0.94
+############################## Composition After Initial Remove ###############################
+        CN2       CN17       CN19
+0  56.70342  49.784645  67.511935
+L2 Error %: 0.36
+Cosine Similarity: 0.93
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN17', 'CN19']
+L2 Error % 0.36
+Cosine Similarity 0.93
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN17', 'CN19']
+L2 Error % 0.36
+Cosine Similarity 0.93
+
+#################### Final Composition #################################
+['CN2', 'CN17', 'CN19']
+L2 Error % 0.36
+Cosine Similarity 0.93
+####################################### Composition After Add-Remove #######################################
+    CN2  CN17  CN19
+0  57.0  50.0  67.0
+L2 Error %: 0.36
+Cosine Similarity: 0.93
+
+
+
+
+
+                    ################ Sample 20 #################
+############################# Initial Composition ####################################
+    CN2  CN8  CN9  CN17  CN19  CN20  CN24
+0  54.0  6.0  2.0  34.0  45.0  27.0   5.0
+L2 Error %: 0.33
+Cosine Similarity: 0.94
+############################## Composition After Initial Remove ###############################
+        CN2       CN17       CN19
+0  54.46494  55.835828  62.699232
+L2 Error %: 0.37
+Cosine Similarity: 0.93
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN17', 'CN19']
+L2 Error % 0.37
+Cosine Similarity 0.93
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN17', 'CN19']
+L2 Error % 0.37
+Cosine Similarity 0.93
+
+#################### Final Composition #################################
+['CN2', 'CN17', 'CN19']
+L2 Error % 0.37
+Cosine Similarity 0.93
+####################################### Composition After Add-Remove #######################################
+    CN2  CN17  CN19
+0  54.0  56.0  63.0
+L2 Error %: 0.37
+Cosine Similarity: 0.93
+
+
+
+
+
+                    ################ Sample 21 #################
+############################# Initial Composition ####################################
+    CN2   CN8  CN9  CN17  CN19  CN20  CN24
+0  36.0  88.0  6.0  18.0  27.0  11.0   7.0
+L2 Error %: 0.4
+Cosine Similarity: 0.92
+############################## Composition After Initial Remove ###############################
+        CN2        CN8       CN19
+0  42.68886  95.249098  55.062041
+L2 Error %: 0.43
+Cosine Similarity: 0.9
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN8', 'CN19']
+L2 Error % 0.43
+Cosine Similarity 0.9
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN8', 'CN19']
+L2 Error % 0.43
+Cosine Similarity 0.9
+
+#################### Final Composition #################################
+['CN2', 'CN8', 'CN19']
+L2 Error % 0.43
+Cosine Similarity 0.9
+####################################### Composition After Add-Remove #######################################
+    CN2   CN8  CN19
+0  43.0  95.0  55.0
+L2 Error %: 0.43
+Cosine Similarity: 0.9
+
+
+
+
+
+                    ################ Sample 22 #################
+############################# Initial Composition ####################################
+    CN2   CN8   CN9  CN17  CN19  CN20
+0  36.0  26.0  14.0  59.0  21.0  26.0
+L2 Error %: 0.37
+Cosine Similarity: 0.93
+############################## Composition After Initial Remove ###############################
+         CN2        CN8        CN17
+0  39.581156  38.555423  103.863421
+L2 Error %: 0.45
+Cosine Similarity: 0.9
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN8', 'CN17']
+L2 Error % 0.45
+Cosine Similarity 0.9
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN8', 'CN17']
+L2 Error % 0.45
+Cosine Similarity 0.9
+
+#################### Final Composition #################################
+['CN2', 'CN8', 'CN17']
+L2 Error % 0.45
+Cosine Similarity 0.9
+####################################### Composition After Add-Remove #######################################
+    CN2   CN8   CN17
+0  40.0  39.0  103.0
+L2 Error %: 0.45
+Cosine Similarity: 0.9
+
+
+
+
+
+                    ################ Sample 23 #################
+############################# Initial Composition ####################################
+    CN2  CN8  CN17  CN19  CN20
+0  41.0  2.0  41.0  44.0  23.0
+L2 Error %: 0.3
+Cosine Similarity: 0.95
+############################## Composition After Initial Remove ###############################
+         CN2       CN17      CN19
+0  39.556774  58.537906  52.90532
+L2 Error %: 0.33
+Cosine Similarity: 0.94
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN17', 'CN19']
+L2 Error % 0.33
+Cosine Similarity 0.94
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN17', 'CN19']
+L2 Error % 0.33
+Cosine Similarity 0.94
+
+#################### Final Composition #################################
+['CN2', 'CN17', 'CN19']
+L2 Error % 0.33
+Cosine Similarity 0.94
+####################################### Composition After Add-Remove #######################################
+    CN2  CN17  CN19
+0  40.0  58.0  53.0
+L2 Error %: 0.33
+Cosine Similarity: 0.94
+
+
+
+
+
+                    ################ Sample 24 #################
+############################# Initial Composition ####################################
+    CN2   CN8  CN17  CN19  CN20  CN24
+0  36.0  33.0  73.0  65.0  31.0  22.0
+L2 Error %: 0.3
+Cosine Similarity: 0.95
+############################## Composition After Initial Remove ###############################
+         CN2        CN17        CN19
+0  41.994739  108.750095  109.255166
+L2 Error %: 0.38
+Cosine Similarity: 0.92
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN17', 'CN19']
+L2 Error % 0.38
+Cosine Similarity 0.92
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CN2', 'CN17', 'CN19']
+L2 Error % 0.38
+Cosine Similarity 0.92
+
+#################### Final Composition #################################
+['CN2', 'CN17', 'CN19']
+L2 Error % 0.38
+Cosine Similarity 0.92
+####################################### Composition After Add-Remove #######################################
+    CN2   CN17   CN19
+0  42.0  109.0  109.0
+L2 Error %: 0.38
+Cosine Similarity: 0.92

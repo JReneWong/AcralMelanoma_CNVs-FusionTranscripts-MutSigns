@@ -1,0 +1,618 @@
+
+
+
+
+
+                    ################ Sample 1 #################
+############################# Initial Composition ####################################
+   CNV48B
+0   150.0
+L2 Error %: 0.48
+Cosine Similarity: 0.88
+############################## Composition After Initial Remove ###############################
+   CNV48B
+0   150.0
+L2 Error %: 0.48
+Cosine Similarity: 0.88
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CNV48B']
+L2 Error % 0.48
+Cosine Similarity 0.88
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CNV48B']
+L2 Error % 0.48
+Cosine Similarity 0.88
+
+#################### Final Composition #################################
+['CNV48B']
+L2 Error % 0.48
+Cosine Similarity 0.88
+####################################### Composition After Add-Remove #######################################
+   CNV48B
+0   150.0
+L2 Error %: 0.48
+Cosine Similarity: 0.88
+
+
+
+
+
+                    ################ Sample 2 #################
+############################# Initial Composition ####################################
+   CNV48A  CNV48B
+0    33.0   211.0
+L2 Error %: 0.2
+Cosine Similarity: 0.98
+############################## Composition After Initial Remove ###############################
+   CNV48A  CNV48B
+0    33.0   211.0
+L2 Error %: 0.2
+Cosine Similarity: 0.98
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+                    ################ Sample 3 #################
+############################# Initial Composition ####################################
+   CNV48B
+0   362.0
+L2 Error %: 0.18
+Cosine Similarity: 0.98
+############################## Composition After Initial Remove ###############################
+   CNV48B
+0   362.0
+L2 Error %: 0.18
+Cosine Similarity: 0.98
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CNV48B']
+L2 Error % 0.18
+Cosine Similarity 0.98
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CNV48B']
+L2 Error % 0.18
+Cosine Similarity 0.98
+
+#################### Final Composition #################################
+['CNV48B']
+L2 Error % 0.18
+Cosine Similarity 0.98
+####################################### Composition After Add-Remove #######################################
+   CNV48B
+0   362.0
+L2 Error %: 0.18
+Cosine Similarity: 0.98
+
+
+
+
+
+                    ################ Sample 4 #################
+############################# Initial Composition ####################################
+   CNV48A  CNV48B
+0   230.0     4.0
+L2 Error %: 0.37
+Cosine Similarity: 0.93
+############################## Composition After Initial Remove ###############################
+   CNV48A  CNV48B
+0   230.0     4.0
+L2 Error %: 0.37
+Cosine Similarity: 0.93
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+                    ################ Sample 5 #################
+############################# Initial Composition ####################################
+   CNV48A  CNV48B
+0   197.0    12.0
+L2 Error %: 0.35
+Cosine Similarity: 0.94
+############################## Composition After Initial Remove ###############################
+   CNV48A  CNV48B
+0   197.0    12.0
+L2 Error %: 0.35
+Cosine Similarity: 0.94
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+                    ################ Sample 6 #################
+############################# Initial Composition ####################################
+   CNV48A  CNV48B
+0   220.0     8.0
+L2 Error %: 0.32
+Cosine Similarity: 0.95
+############################## Composition After Initial Remove ###############################
+   CNV48A  CNV48B
+0   220.0     8.0
+L2 Error %: 0.32
+Cosine Similarity: 0.95
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+                    ################ Sample 7 #################
+############################# Initial Composition ####################################
+   CNV48A  CNV48B
+0   191.0     6.0
+L2 Error %: 0.37
+Cosine Similarity: 0.93
+############################## Composition After Initial Remove ###############################
+   CNV48A  CNV48B
+0   191.0     6.0
+L2 Error %: 0.37
+Cosine Similarity: 0.93
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+                    ################ Sample 8 #################
+############################# Initial Composition ####################################
+   CNV48A
+0   142.0
+L2 Error %: 0.35
+Cosine Similarity: 0.94
+############################## Composition After Initial Remove ###############################
+   CNV48A
+0   142.0
+L2 Error %: 0.35
+Cosine Similarity: 0.94
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CNV48A']
+L2 Error % 0.35
+Cosine Similarity 0.94
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CNV48A']
+L2 Error % 0.35
+Cosine Similarity 0.94
+
+#################### Final Composition #################################
+['CNV48A']
+L2 Error % 0.35
+Cosine Similarity 0.94
+####################################### Composition After Add-Remove #######################################
+   CNV48A
+0   142.0
+L2 Error %: 0.35
+Cosine Similarity: 0.94
+
+
+
+
+
+                    ################ Sample 9 #################
+############################# Initial Composition ####################################
+   CNV48A
+0   171.0
+L2 Error %: 0.29
+Cosine Similarity: 0.96
+############################## Composition After Initial Remove ###############################
+   CNV48A
+0   171.0
+L2 Error %: 0.29
+Cosine Similarity: 0.96
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CNV48A']
+L2 Error % 0.29
+Cosine Similarity 0.96
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CNV48A']
+L2 Error % 0.29
+Cosine Similarity 0.96
+
+#################### Final Composition #################################
+['CNV48A']
+L2 Error % 0.29
+Cosine Similarity 0.96
+####################################### Composition After Add-Remove #######################################
+   CNV48A
+0   171.0
+L2 Error %: 0.29
+Cosine Similarity: 0.96
+
+
+
+
+
+                    ################ Sample 10 #################
+############################# Initial Composition ####################################
+   CNV48A
+0   226.0
+L2 Error %: 0.32
+Cosine Similarity: 0.95
+############################## Composition After Initial Remove ###############################
+   CNV48A
+0   226.0
+L2 Error %: 0.32
+Cosine Similarity: 0.95
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CNV48A']
+L2 Error % 0.32
+Cosine Similarity 0.95
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CNV48A']
+L2 Error % 0.32
+Cosine Similarity 0.95
+
+#################### Final Composition #################################
+['CNV48A']
+L2 Error % 0.32
+Cosine Similarity 0.95
+####################################### Composition After Add-Remove #######################################
+   CNV48A
+0   226.0
+L2 Error %: 0.32
+Cosine Similarity: 0.95
+
+
+
+
+
+                    ################ Sample 11 #################
+############################# Initial Composition ####################################
+   CNV48A  CNV48B
+0   258.0    10.0
+L2 Error %: 0.37
+Cosine Similarity: 0.93
+############################## Composition After Initial Remove ###############################
+   CNV48A  CNV48B
+0   258.0    10.0
+L2 Error %: 0.37
+Cosine Similarity: 0.93
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+                    ################ Sample 12 #################
+############################# Initial Composition ####################################
+   CNV48A  CNV48B
+0   176.0     1.0
+L2 Error %: 0.3
+Cosine Similarity: 0.95
+############################## Composition After Initial Remove ###############################
+   CNV48A  CNV48B
+0   176.0     1.0
+L2 Error %: 0.3
+Cosine Similarity: 0.95
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+                    ################ Sample 13 #################
+############################# Initial Composition ####################################
+   CNV48A
+0   180.0
+L2 Error %: 0.29
+Cosine Similarity: 0.96
+############################## Composition After Initial Remove ###############################
+   CNV48A
+0   180.0
+L2 Error %: 0.29
+Cosine Similarity: 0.96
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CNV48A']
+L2 Error % 0.29
+Cosine Similarity 0.96
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition ['CNV48A']
+L2 Error % 0.29
+Cosine Similarity 0.96
+
+#################### Final Composition #################################
+['CNV48A']
+L2 Error % 0.29
+Cosine Similarity 0.96
+####################################### Composition After Add-Remove #######################################
+   CNV48A
+0   180.0
+L2 Error %: 0.29
+Cosine Similarity: 0.96
+
+
+
+
+
+                    ################ Sample 14 #################
+############################# Initial Composition ####################################
+   CNV48A  CNV48B
+0   293.0     6.0
+L2 Error %: 0.77
+Cosine Similarity: 0.64
+############################## Composition After Initial Remove ###############################
+   CNV48A  CNV48B
+0   293.0     6.0
+L2 Error %: 0.77
+Cosine Similarity: 0.64
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+                    ################ Sample 15 #################
+############################# Initial Composition ####################################
+   CNV48A  CNV48B
+0   166.0     7.0
+L2 Error %: 0.28
+Cosine Similarity: 0.96
+############################## Composition After Initial Remove ###############################
+   CNV48A  CNV48B
+0   166.0     7.0
+L2 Error %: 0.28
+Cosine Similarity: 0.96
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+                    ################ Sample 16 #################
+############################# Initial Composition ####################################
+   CNV48A  CNV48B
+0   157.0    32.0
+L2 Error %: 0.26
+Cosine Similarity: 0.97
+############################## Composition After Initial Remove ###############################
+   CNV48A  CNV48B
+0   157.0    32.0
+L2 Error %: 0.26
+Cosine Similarity: 0.97
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+                    ################ Sample 17 #################
+############################# Initial Composition ####################################
+   CNV48A  CNV48B
+0   237.0     4.0
+L2 Error %: 0.56
+Cosine Similarity: 0.83
+############################## Composition After Initial Remove ###############################
+   CNV48A  CNV48B
+0   237.0     4.0
+L2 Error %: 0.56
+Cosine Similarity: 0.83
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+                    ################ Sample 18 #################
+############################# Initial Composition ####################################
+   CNV48A  CNV48B
+0   283.0    12.0
+L2 Error %: 0.5
+Cosine Similarity: 0.87
+############################## Composition After Initial Remove ###############################
+   CNV48A  CNV48B
+0   283.0    12.0
+L2 Error %: 0.5
+Cosine Similarity: 0.87
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+                    ################ Sample 19 #################
+############################# Initial Composition ####################################
+   CNV48A  CNV48B
+0   166.0     8.0
+L2 Error %: 0.42
+Cosine Similarity: 0.91
+############################## Composition After Initial Remove ###############################
+   CNV48A  CNV48B
+0   166.0     8.0
+L2 Error %: 0.42
+Cosine Similarity: 0.91
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+                    ################ Sample 20 #################
+############################# Initial Composition ####################################
+   CNV48A  CNV48B
+0   168.0     5.0
+L2 Error %: 0.38
+Cosine Similarity: 0.92
+############################## Composition After Initial Remove ###############################
+   CNV48A  CNV48B
+0   168.0     5.0
+L2 Error %: 0.38
+Cosine Similarity: 0.92
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+                    ################ Sample 21 #################
+############################# Initial Composition ####################################
+   CNV48A  CNV48B
+0   177.0    16.0
+L2 Error %: 0.57
+Cosine Similarity: 0.82
+############################## Composition After Initial Remove ###############################
+   CNV48A  CNV48B
+0   177.0    16.0
+L2 Error %: 0.57
+Cosine Similarity: 0.82
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+                    ################ Sample 22 #################
+############################# Initial Composition ####################################
+   CNV48A  CNV48B
+0   166.0    16.0
+L2 Error %: 0.35
+Cosine Similarity: 0.94
+############################## Composition After Initial Remove ###############################
+   CNV48A  CNV48B
+0   166.0    16.0
+L2 Error %: 0.35
+Cosine Similarity: 0.94
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+                    ################ Sample 23 #################
+############################# Initial Composition ####################################
+   CNV48A  CNV48B
+0   143.0     8.0
+L2 Error %: 0.41
+Cosine Similarity: 0.91
+############################## Composition After Initial Remove ###############################
+   CNV48A  CNV48B
+0   143.0     8.0
+L2 Error %: 0.41
+Cosine Similarity: 0.91
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
+
+                    ################ Sample 24 #################
+############################# Initial Composition ####################################
+   CNV48A  CNV48B
+0   225.0    35.0
+L2 Error %: 0.34
+Cosine Similarity: 0.94
+############################## Composition After Initial Remove ###############################
+   CNV48A  CNV48B
+0   225.0    35.0
+L2 Error %: 0.34
+Cosine Similarity: 0.94
+
+############################## Performing Add-Remove Step ##############################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!

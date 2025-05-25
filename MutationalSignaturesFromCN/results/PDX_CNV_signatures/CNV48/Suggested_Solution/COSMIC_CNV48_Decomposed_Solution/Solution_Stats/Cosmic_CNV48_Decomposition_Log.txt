@@ -1,0 +1,85 @@
+############################ Signature Decomposition Details ################################
+
+
+Context Type: 48
+Genome Build: GRCh37
+The following signatures are excluded: 
+
+
+
+######################## Decomposing CNV48A ########################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [19]
+L2 Error % 0.56
+Cosine Similarity 0.83
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [1, 19]
+L2 Error % 0.4
+Cosine Similarity 0.92
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 2 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [1, 7, 19]
+L2 Error % 0.33
+Cosine Similarity 0.95
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 3 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [1, 7, 18, 19]
+L2 Error % 0.27
+Cosine Similarity 0.96
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 4 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [1, 7, 16, 18, 19]
+L2 Error % 0.21
+Cosine Similarity 0.98
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 5 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [1, 7, 16, 18, 19]
+L2 Error % 0.21
+Cosine Similarity 0.98
+
+#################### Final Composition #################################
+[1, 7, 16, 18, 19]
+L2 Error % 0.21
+Cosine Similarity 0.98
+
+
+
+
+######################## Decomposing CNV48B ########################
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 0 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [8]
+L2 Error % 0.55
+Cosine Similarity 0.84
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 1 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [8, 19]
+L2 Error % 0.47
+Cosine Similarity 0.88
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 2 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [8, 19, 23]
+L2 Error % 0.4
+Cosine Similarity 0.92
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!! LAYER: 3 !!!!!!!!!!!!!!!!!!!!!!!!!
+Best Signature Composition [8, 19, 23]
+L2 Error % 0.4
+Cosine Similarity 0.92
+
+#################### Final Composition #################################
+[8, 19, 23]
+L2 Error % 0.4
+Cosine Similarity 0.92

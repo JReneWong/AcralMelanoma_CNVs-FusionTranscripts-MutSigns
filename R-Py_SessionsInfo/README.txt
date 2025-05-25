@@ -1,0 +1,1 @@
+For the analyses in this main folder (CN, mutational signatures from CNV, and fusion transcripts detection) we provide the information for the used R and Python sessions. 
