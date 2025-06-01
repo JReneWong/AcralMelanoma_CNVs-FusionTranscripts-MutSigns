@@ -1,4 +1,4 @@
-##Copy number analysis, mutational signatures, mutational signatures from copy number and fusion transcripts detection.
+#Copy number analysis, mutational signatures, mutational signatures from copy number and fusion transcripts detection.
 
 In this repository you will find the corresponding information for the analyses mentioned in the title. Each foldr contains the same basic sub-folders structure:
 
