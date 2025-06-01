@@ -1,0 +1,3 @@
+#Mutational and Copy Number Signatures: Paired samples
+
+Mutational and copy number signature analyses (Patient and PDX, separately) were performed using the tool SigProfilerExtractor v1.1.23 (Islam et al., 2022). SNVs and INDELs that passed the previously described filters were used as input data. Mutational signatures were extracted using the 96 SBS context with default parameters for exome data. For copy number signature, SEQUENZA segmentation data was used as input and setting minimum_signatures=1, maximum_signatures=10, nmf_replicates=100 and default parameters for the rest, for exome data. 
