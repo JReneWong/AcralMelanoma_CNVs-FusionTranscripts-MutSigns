@@ -9,4 +9,4 @@ In this repository you will find the corresponding information for the analyses 
 
 Note: "Mutational signatures from CN" scripts are located inside the folder /MutationalSignatures.
 
-Information related to our R and Python sessions could be find in this repository, in "PythonSessionInfo.txt" and "renv.lock". 
+Information related to our R and Python sessions could be find in this repository, in "requirements.txt" and "renv.lock". 
